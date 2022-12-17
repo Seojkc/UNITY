@@ -5,7 +5,9 @@ https://user-images.githubusercontent.com/93193151/208226761-d02f3c01-596a-4371-
 
 
 #SnakeGame2
-https://user-images.githubusercontent.com/93193151/208226868-421ca9f4-3722-48b5-bade-20828183f0c6.mp4
+
+https://user-images.githubusercontent.com/93193151/208226970-9272efc9-f698-4989-a087-f605ee67cec2.mp4
+
 
 
 
